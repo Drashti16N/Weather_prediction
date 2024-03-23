@@ -8,6 +8,10 @@ Machine Learning project on Weather Prediction.
 - By analyzing historical weather data and combining it with real-time observations, machine learning algorithms can provide valuable insights into weather patterns, making prediction more precisely and timely.
 - Parameter used for classification of labeled data : Humidity, Precipitation, temperature, windspeed.
 
+**# Data Source:**
+- We have downloaded weather data of Dehradun of the year 2021.
+- DATA  ACCESS VIEWER: https://power.larc.nasa.gov/data-access-viewer/
+
 **# Problem statement:**
 - How to utilize Machine learning algorithms for weather prediction?
 - What are the different ML Models for classification that are used in weather prediction?
